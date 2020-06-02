@@ -1,0 +1,8 @@
+measles - negru
+salmonella - verde
+smallpox - portocaliu inchis
+cancer - portocaliu deschis
+turbeculoza - galben
+shigella - rosu
+
+Microsoft YaHei UI, bold, 30

@@ -1,0 +1,33 @@
+About Us Page:
+
+	Grey color for map and bar: #9EA7C0
+	Grey color for about us and the text under it: #676767
+	Map image used: greymap.png
+
+	Font used for about us: Microsoft YaHei UI BOLD (font size: 150)
+
+	Font used for the text under "about us" : Segoe UI Regular (font size: 22)
+	
+	The text under about us: "
+Vital Tweets is the work of a group of students, 
+as it represents the project in the Programming Engineering
+subject for Group A2 at the Faculty of Computer Science, 
+"Alexandru Ioan Cuza" University of Ia?i. 
+
+To obtain this application, the students had to understand and 
+acquire skills like teamwork, collaboration, adaptability, 
+time and task management, along with a large amount of 
+technical knowledge (Java, PHP, MySQL, HTML, CSS), the use 
+and integration of APIs, and last but not least the methodologies 
+used in the IT industry (Scrum, Agile, Cascade, Kanban, XP).
+"
+	Introducing the teacher(Microsoft YaHei Regular and Bold, size 20): "Vital Tweets is being realized under the direct supervision of
+ the associate professor Adrian Iftene, PhD."
+
+	Introducing the team (Microsoft YaHei UI Bold, size 20): "The team is composed of: "
+
+	List of students(Segoe UI Regular, size 20): "
+Alexa Diana-Andreea, Bîrleanu Andrei- Cristian, Bucataru Andreea, Bulboaca Maria, Calu?u Maria-Alexandra, Carpu?or Diana, Cotfasa-Huma Octavian-Gabriel, Dascalu Lauren?iu, Dulceanu Maria, Gherasim Andrei-Albert, Marina Ghiorghi?a-Alexandru, Mariniuc Andrei, Martinu? Eusebiu-Florin, Matei Alexandru, Mihai Elena-Sorina, Mihuleac Narcis-Petri?or, Onofrei Claudia, Popescu Diana-Elena, Pulbere Victor, Rotaru Alexandra-Beatrice, Savioli Giovanni, Sidor Robert-Gabriel, Spulber Claudiu, Zanceanu Ioan-Robert, Velicescu Laura.
+"
+
+	Footer (Segoe Ui Regular, size 20, color #E84118) 

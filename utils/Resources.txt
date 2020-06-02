@@ -1,0 +1,24 @@
+Am lasat mai mult spatiu intre sectiunea cu grupa si resurse ca sa se dea scroll si 
+sa nu se vada urat cand intra pe pagina de about us. abia cand cineva da scroll
+pe pagina de about us o sa apara titlul si lista cu resurse
+
+
+Titlu: RESOURCES AND CREDITS 
+Font: Microsoft YaHei UI, BOLD, #E84118
+
+Lista: 
+
+Font:
+Microsoft YaHei UI, Light, #676767
+
+1. freepik.com
+2. OpenStreetMap API
+3. Twitter API
+4. https://leafletjs.com/
+5. Freelogodesing.org
+6. Logo and Clusters: <a href="https://www.freepik.com/free-photos-vectors/logo">Logo vector created by freepik - www.freepik.com</a>
+7. Grey Map: <a href="https://www.freepik.com/free-photos-vectors/map">Map vector created by freepik - www.freepik.com</a>
+8. Pin: <a href="http://www.freepik.com">Designed by rawpixel.com / Freepik</a>
+9. Map Legend Icon: Map Legend by Nicole Macdonald from the Noun Project.
+10.Statistics Image <a href="https://www.freepik.com/free-photos-vectors/business">Business vector created by rawpixel.com - www.freepik.com</a>
+11. Map: <a href="https://www.freepik.com/free-photos-vectors/travel">Travel vector created by Layerace - www.freepik.com</a>
